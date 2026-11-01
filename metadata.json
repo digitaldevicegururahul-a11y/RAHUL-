@@ -1,0 +1,6 @@
+{
+  "name": "ROUTER MASTER PRO",
+  "description": "Professional router configuration and device management software for GX Earth-4222, Airtel AOT-5221ZY, Airtel ONT, and ZTE ZXHN F670L.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
